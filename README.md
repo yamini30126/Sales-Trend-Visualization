@@ -12,7 +12,7 @@ This project analyzes the Superstore Sales dataset using Python and visualizes s
 
 ## Dataset
 - **Name:** Superstore Dataset
-- **Source:** Kaggle (vivek468/superstore-dataset-final)
+- **Source:** Download dataset from Kaggle: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 - **File:** Sample - Superstore.csv
 - **Records:** 9,994 rows | 21 columns
 - **Total Sales:** $2,297,200.86
